@@ -1,2 +1,0 @@
-# blogpostapp
-Blog Post App
